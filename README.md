@@ -73,5 +73,4 @@
 
 ### 🤝 Connect with Me
 * 💼 **LinkedIn:** [omar-atwa16](https://www.linkedin.com/in/omar-atwa16)
-* 🐙 **GitHub:** [omar-atwa16](https://github.com/omar-atwa16)
 * ✉️ **Email:** omar.atwaa16@gmail.com
